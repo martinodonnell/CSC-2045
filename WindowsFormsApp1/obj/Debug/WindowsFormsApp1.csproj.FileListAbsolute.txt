@@ -1,0 +1,10 @@
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

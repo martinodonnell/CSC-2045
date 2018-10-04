@@ -1,0 +1,6 @@
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WcfService1\bin\WcfService1.dll.config
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WcfService1\bin\WcfService1.dll
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WcfService1\bin\WcfService1.pdb
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WcfService1\obj\Debug\WcfService1.dll
+C:\Projects\VS2017\Projects\WcfServiceLibrary1\WcfService1\obj\Debug\WcfService1.pdb
